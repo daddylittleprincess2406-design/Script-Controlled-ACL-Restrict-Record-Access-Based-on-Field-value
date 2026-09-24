@@ -1,8 +1,4 @@
-[6:01 pm, 24/9/2026] good thing take time 😌✨: # Brainstorming & Ideation
 
-## Project Title
-Script-Controlled ACL – Restrict Record Access Based on Field Value
-[6:10 pm, 24/9/2026] good thing take time 😌✨: # Requirement Analysis
 
 ## Project Title
 Script-Controlled ACL – Restrict Record Access Based on Field Value
